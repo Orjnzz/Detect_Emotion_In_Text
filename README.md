@@ -33,7 +33,7 @@ streamlit run app.py
 ```
 ---
 ### 5. Hugging Face Deployment
-For added convenience, this application is deployed on Hugging Face Spaces, allowing you to interact with the model directly in your web browser without needing to set up a local environment. The deployment is continuously updated with the latest model and vectorizer to ensure you experience the most recent improvements.
+For added convenience, this application is deployed on Hugging Face Spaces, allowing you to interact with the model directly in your web browser without needing to set up a local environment.
 You can access the deployed application here:  
 [Detect Emotion In Text](https://huggingface.co/spaces/HaoHao2915/Detect_Emotion_In_Text)
 
