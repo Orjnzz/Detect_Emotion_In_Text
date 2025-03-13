@@ -36,9 +36,8 @@ streamlit run app.py
 For added convenience, this application is deployed on Hugging Face Spaces, allowing you to interact with the model directly in your web browser without needing to set up a local environment.
 You can access the deployed application here:  
 [Detect Emotion In Text](https://huggingface.co/spaces/HaoHao2915/Detect_Emotion_In_Text)
+**Simply click the link, input your text, and view the predicted emotion in real time.**
 
-Simply click the link, input your text, and view the predicted emotion in real time.
----
 ## Feedback
 For feedbacks or issues about project please contact with me: 
 ```
